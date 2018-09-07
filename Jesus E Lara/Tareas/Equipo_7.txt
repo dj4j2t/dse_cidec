@@ -1,0 +1,9 @@
+Ejecicio1 version de SW
+
+Jesus Lara
+
+Nombre del proyecto-Iteracion-Año-semana actual-version-Tipo de liberacion
+
+Integration_Project_IT[aa][cw][version]-[Dev/Prod]
+
+Integration_Project_IT183600-Dev 
