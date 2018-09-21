@@ -1,0 +1,20 @@
+instrucciones para crear y conectarse a un repositorio en un servidor (github)
+
+
+crear una cuenta gratuita en github. 
+crear una carpeta en tu computadora.
+abrir git bash en tu computadora
+entrar a la carpeta donde estara el repositorio local mediante cd
+inicializar repositorio local con git init (dentro de la carpeta local)
+conectarse a el servidor usando git remote add origin [url del servidor]
+realizar cambios en los archivos de la carpeta local, 
+git branch [nombre de la rama] crea una rama con un nombre
+git checkout [nombre de la rama] te ubica en la rama deseada[existente]
+para que git suba  los cambios a la rama donde se ubica(checkout) usar git add .
+usar git commit "comentario" para registrar un comentario en el cambio
+git log muestra la etiqueta y el cambio registrado
+git push para subir cambios a servidor
+git push -u origin master
+git pull para descargar clon a directorio local
+
+
